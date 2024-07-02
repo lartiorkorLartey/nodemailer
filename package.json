@@ -1,0 +1,23 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "description": "Simple node.js application to test a local docker mail server",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lartiorkorLartey/nodemailer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.13"
+  },
+  "bugs": {
+    "url": "https://github.com/lartiorkorLartey/nodemailer/issues"
+  },
+  "homepage": "https://github.com/lartiorkorLartey/nodemailer#readme"
+}
